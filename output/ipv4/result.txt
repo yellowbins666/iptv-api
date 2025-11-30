@@ -7,57 +7,34 @@
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 湖南卫视,http://pull-skycorp.speedws.com/live/rshHW4V9A5aGocS0bN5foBUP5w0MZNsNRHYVtVE100iJPiMe7rq.flv
 湖南卫视,http://222.212.84.190:54123/rtp/239.94.0.116:5140
-湖南卫视,http://124.165.17.69:8082/rtp/226.0.1.246:2125
+湖南卫视,http://116.179.130.16:6001/rtp/226.0.1.246:2125
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226513/.m3u8
-北京卫视,http://115.171.80.57:1688/rtp/225.1.8.21:8002
-黑龙江卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226498/.m3u8
-重庆卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226518/.m3u8
-重庆卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226337/.m3u8
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
-广西卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/.m3u8
-广西卫视,http://115.171.80.57:1688/rtp/225.1.8.152:8300
-贵州卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226521/.m3u8
-海南卫视,http://115.171.80.57:1688/rtp/225.1.8.158:8304
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-吉林卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226912/.m3u8
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4
 江苏卫视,http://pull-skycorp.speedws.com/live/trlXf058oDBEjovR1h5sNsNRHYzksVTZ55YkdEsiVFiGFzpkRsB.flv
-江苏卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226491/.m3u8
-江西卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226570/.m3u8
-江西卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226522/.m3u8
-江西卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226243/.m3u8
-江西卫视,http://115.171.80.57:1688/rtp/225.1.1.9:8164
-内蒙古卫视,http://115.171.80.57:1688/rtp/225.1.8.156:8176
 青海卫视,http://pull-skycorp.speedws.com/live/Vl8mV4zn76zS5PTDLz4gWL0V4sE1ZrOq4QcjzQ1za74lLOnTbO.flv
-青海卫视,http://115.171.80.57:1688/rtp/225.1.8.157:8184
 山西卫视,http://pull-skycorp.speedws.com/live/ELjaeHOFG9HT3UOUJ5sbRcrufQf3CnhBzPoHD2QUWosNRHYPOG.flv
-山西卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226920/.m3u8
-山西卫视,http://115.171.80.57:1688/rtp/225.1.8.155:8172
-陕西卫视,http://115.171.80.57:1688/rtp/225.1.8.154:8140
 四川卫视,http://222.212.84.190:54123/rtp/239.94.0.115:5140
-四川卫视,http://60.223.72.140:8002/rtp/226.0.1.250:2126
-四川卫视,http://221.205.180.120:8004/rtp/226.0.1.250:2126
-四川卫视,http://171.117.158.149:9999/rtp/226.0.1.250:2126
 四川卫视,http://171.125.90.120:6001/rtp/226.0.1.250:2126
+四川卫视,http://221.205.180.120:8004/rtp/226.0.1.250:2126
+四川卫视,http://60.223.72.140:8002/rtp/226.0.1.250:2126
+四川卫视,http://171.117.158.149:9999/rtp/226.0.1.250:2126
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
-三沙卫视,http://115.171.80.57:1688/rtp/225.1.8.78:4120
-新疆卫视,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226923/.m3u8
-云南卫视,http://115.171.80.57:1688/rtp/225.1.8.139:8108
 
 ☘️广东频道,#genre#
 广东珠江,http://pull-skycorp.speedws.com/live/3S8xigHp0f96ji1GgfcK5muiuOFRADBtzjLxBEU2DqbBg5l1J7.flv
 广东体育,http://pull-skycorp.speedws.com/live/b3wPp1TZjbT396pVN8blDBtzjUGla8BCLip9qWHN7Qlptr8KFy.flv
 
 🌊港·澳·台,#genre#
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
+凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰资讯,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pin72.flv
+凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_audio.m3u8
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
 凤凰香港,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701phk72.flv
 纬来体育,rtmp://f13h.mine.nu:1935/sat/tv721
@@ -73,9 +50,9 @@
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
 东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
@@ -89,17 +66,11 @@ Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 
 🏀体育频道,#genre#
 CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
-CCTV-5,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226945/.m3u8
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
-CCTV-5,http://115.171.80.57:1688/rtp/225.1.8.89:8000
-CCTV-5,http://115.171.80.57:1688/rtp/225.1.8.20:8004
-CCTV-5+,http://drive.mxmy.net:8888/udp/239.3.1.130:8004
-CCTV-5+,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/.m3u8
 CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
+CCTV-5+,http://drive.mxmy.net:8888/udp/239.3.1.130:8004
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 体育赛事,http://144.255.32.94:8288/rtp/239.21.2.44:5002
-体育赛事,http://115.171.80.57:1688/rtp/225.1.8.81:8176
-爱体育,http://222.212.84.190:54123/rtp/239.93.0.135:9008
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://live.xmcdn.com/live/805/64.m3u8
@@ -116,8 +87,8 @@ CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
 新动漫,rtsp://115.153.254.81/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.240.228:554/PLTV/88888888/224/3221226973/86129004.smil
 新动漫,rtsp://115.153.212.72/PLTV/88888888/224/3221226973/86129004.smil
-爱动漫,http://222.212.84.190:54123/rtp/239.93.42.23:5140
 CN卡通,https://cdn.iptv8k.top/dl/jrys.php?id=364&time=20240926215313&ip=111.229.253.40
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086
 火影忍者,https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8
 蜡笔小新,http://www.douzhicloud.site:35455/bilibili/30837590
 漫画解说,https://lunbo.freetv.top/yy/1382735568
