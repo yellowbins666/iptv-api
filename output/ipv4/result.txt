@@ -1,37 +1,23 @@
 📡卫视频道,#genre#
 广东卫视,https://txmov2.a.kwimgs.com/upic/2023/01/26/09/BMjAyMzAxMjYwOTE3NDVfNzM5MzQzNzIyXzk0NjI1OTUwNTA3XzBfMw==_b_B81ddda927d33445d544befd008e60109.mp4
-广东卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226508/.m3u8
 广东卫视,http://183.238.86.52:4022/rtp/239.10.0.111:1025
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
-湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
+湖南卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5199687338554291078_hlsb.m3u8
 湖南卫视,http://171.125.90.120:6001/rtp/226.0.1.246:2125
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
-北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226564/.m3u8
-北京卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226441/.m3u8
-黑龙江卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226498/.m3u8
-重庆卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226569/.m3u8
 东方卫视,https://txmov2.a.kwimgs.com/bs3/video-hls/5219953535631090825_hlsb.m3u8
-东南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226496/.m3u8
-甘肃卫视,http://183.238.86.52:4022/rtp/239.11.0.175:1025
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23
-广西卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226534/.m3u8
-贵州卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226497/.m3u8
 河南卫视,http://1.94.31.214/php/hntv.php?id=hnws
-河南卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226525/.m3u8
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4
-四川卫视,http://60.220.163.86:4000/rtp/226.0.1.250:2126苏州4k
-四川卫视,http://122.70.160.24:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226924/.m3u8
 四川卫视,http://171.125.90.120:6001/rtp/226.0.1.250:2126
-深圳卫视,http://183.238.86.52:4022/rtp/239.10.0.52:1025
 三沙卫视,https://srs.ssws.tv/video/sstv-10/index.m3u8
-天津卫视,http://183.238.86.52:4022/rtp/239.10.0.55:1025
 
 ☘️广东频道,#genre#
 
 🌊港·澳·台,#genre#
-翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40『线路08』
+翡翠台,https://cdn.iptv8k.top/dl/jrys.php?id=3&time=20240926215313&ip=111.229.253.40
 凤凰中文,https://cdn.iptv8k.top/dl/jrys.php?id=19&time=20240926215313&ip=111.229.253.40
 凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_audio.m3u8
 凤凰中文,http://43.152.143.193:80/1.v.smtcdns.net/tvlive.fengshows.cn/live/0701pcc72.flv
@@ -43,7 +29,7 @@
 纬来体育,rtmp://60.248.77.83/sat/tv721
 纬来体育,rtmp://9hv9.mine.nu/sat/tv721.flv
 纬来体育,rtmp://f13h.mine.nu/sat/tv721
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来育乐,rtmp://f13h.mine.nu/sat/tv701?rtmp://f13h.mine.nu:1935:1935/sat/tv701
 纬来育乐,rtmp://9hv9.mine.nu/sat/tv701
 纬来育乐,rtmp://60.248.77.83/sat/tv701
@@ -52,9 +38,9 @@
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 三立台湾,https://cdn.iptv8k.top/dl/jrys.php?id=269&time=20240926215313&ip=111.229.253.40
 三立新闻,https://cdn.iptv8k.top/dl/jrys.php?id=273&time=20240926215313&ip=111.229.253.40
-东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&amp;time=20240926215313&amp;ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
+东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=221&time=20240926215313&ip=111.229.253.40
 东森超视,rtmp://60.248.77.83/sat/tv331
 东森超视,rtmp://9hv9.mine.nu/sat/tv331.flv
 东森超视,rtmp://f13h.mine.nu:1935:1935/sat/tv331
@@ -67,15 +53,14 @@ Now华剧,http://iptv.4666888.xyz/iptv2A.php?id=84
 🎥咪咕直播,#genre#
 
 🏀体育频道,#genre#
-CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
 CCTV-5,http://omnix.cn:4000/udp/225.1.8.89:8000
+CCTV-5,http://drive.mxmy.net:8888/udp/239.3.1.173:8001
 CCTV-5+,http://omnix.cn:4000/udp/225.1.8.20:8004
 CCTV-5+,http://drive.mxmy.net:8888/udp/239.3.1.130:8004
 五星体育,https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 体育赛事,http://144.255.32.94:8288/rtp/239.21.2.44:5002
-山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 山东体育,http://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
-风云足球,http://183.238.86.52:4022/rtp/239.11.0.59:1025
+山东体育,https://satellitepull.cnr.cn/live/wxsdtyxxgb/playlist.m3u8
 
 🪁动画频道,#genre#
 少儿动画,http://218.15.183.23:9901/tsfile/live/23045_1.m3u8
