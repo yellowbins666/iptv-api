@@ -4,6 +4,7 @@ from concurrent.futures import ThreadPoolExecutor
 from logging import INFO
 from threading import Lock
 from time import time
+import sys
 
 from tqdm.asyncio import tqdm_asyncio
 
@@ -33,6 +34,7 @@ async def get_channels_by_subscribe_urls(
     """
     Get the channels by subscribe urls
     """
+    normalized_names = {format_channel_name(name) for name in (names or []) if name}
     if not os.getenv("GITHUB_ACTIONS") and config.cdn_url:
         def _map_raw(u):
             raw_u = github_blob_to_raw(u)
@@ -61,6 +63,10 @@ async def get_channels_by_subscribe_urls(
     pbar = tqdm_asyncio(
         total=subscribe_urls_len,
         desc=t("pbar.getting_name").format(name=t("name.subscribe")),
+        file=sys.stdout,
+        mininterval=0,
+        miniters=1,
+        dynamic_ncols=False,
     )
     start_time = time()
     mode_name = t("name.subscribe")
@@ -82,7 +88,7 @@ async def get_channels_by_subscribe_urls(
             return
         with disabled_lock:
             disabled_urls.add(source_url)
-        print(t("msg.auto_disable_source").format(name=mode_name, url=source_url, reason=reason))
+        print(t("msg.auto_disable_source").format(name=mode_name, url=source_url, reason=reason), flush=True)
 
     def process_subscribe_channels(subscribe_info: str | dict) -> defaultdict:
         subscribe_url = subscribe_info.get('url') if isinstance(subscribe_info, dict) else subscribe_info
@@ -98,7 +104,7 @@ async def get_channels_by_subscribe_urls(
                 response = retry_func(lambda: get_soup_requests(subscribe_url, timeout=request_timeout,
                                                                 headers_override=headers), name=subscribe_url)
             except Exception as e:
-                print(e)
+                print(e, flush=True)
                 disable_reason = t("msg.auto_disable_request_failed")
             if response:
                 if hasattr(response, 'text'):
@@ -128,7 +134,7 @@ async def get_channels_by_subscribe_urls(
                         url = item.get("value", "").strip()
                         if data_name and url:
                             name = format_channel_name(data_name)
-                            if names and name not in names:
+                            if normalized_names and name not in normalized_names:
                                 logger.info(f"{data_name},{url}")
                                 if not open_unmatch_category:
                                     continue
@@ -150,7 +156,7 @@ async def get_channels_by_subscribe_urls(
                 if not channels and not disable_reason:
                     disable_reason = t("msg.auto_disable_no_match")
         except Exception as e:
-            print(t("msg.error_name_info").format(name=subscribe_url, info=e))
+            print(t("msg.error_name_info").format(name=subscribe_url, info=e), flush=True)
             if not disable_reason:
                 disable_reason = t("msg.auto_disable_request_failed")
         finally:
@@ -183,6 +189,6 @@ async def get_channels_by_subscribe_urls(
             active_count = counts["active"]
             disabled_count = counts["disabled"]
         print(t("msg.auto_disable_source_done").format(name=mode_name, active_count=active_count,
-                                                       disabled_count=disabled_count))
+                                                       disabled_count=disabled_count), flush=True)
         close_logger_handlers(logger)
         return subscribe_results
